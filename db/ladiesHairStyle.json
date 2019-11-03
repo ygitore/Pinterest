@@ -1,0 +1,19 @@
+{
+    "womenHairStyle":[
+        {
+            "id":"womenHairStyle1",
+            "imageUrl":"http://www.whatwouldthembido.com/wp-content/uploads/2009/08/kategosselin1.jpg"
+        }, {
+            "id":"womenHairStyle2",
+            "imageUrl":"https://www.hairstylo.com/wp-content/uploads/2018/11/Latest-hairstyles-for-black-women-2017-41-507x480.jpg"
+        },
+        {
+            "id":"womenHairStyle3",
+            "imageUrl":"https://i.pinimg.com/736x/23/1e/7e/231e7ec396ff20113012c92867450aba.jpg"
+        },
+        {
+            "id":"womenHairStyle4",
+            "imageUrl":"https://cdn2.stylecraze.com/wp-content/uploads/2012/08/Top-50-Hairstyles-For-Professional-Women-1.jpg"
+        }
+    ]
+}

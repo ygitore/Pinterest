@@ -16,6 +16,7 @@ const checkLoginStatus = () => {
       logoutNavbar.removeClass('hide'); // when user login, we hide class will be removed
       authDiv.addClass('hide');
       $('<input id ="mySearch" class = "mySearch" type = "text" placeholder = "Search">').insertAfter('.navbar-brand');
+      $('#exampleModalCenter').modal('show');
     } else {
       // nobody logged in SHOW auth component
       stockDiv.addClass('hide');
