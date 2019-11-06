@@ -7,7 +7,7 @@
   <title>Pinterest</title>
 </head>
 <body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
     <a class="navbar-brand" href="#">Pinterest</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -15,9 +15,27 @@
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <button class="nav-link btn btn-danger hide" id="navbar-button-logout">Logout</button>
-        </li>
+          <li class="nav-item add-space-btn">
+            <input class="form-control mr-sm-2 search-text" type="search" placeholder="Search" aria-label="Search">          </li>
+          <li class="nav-item active add-space-btn">
+            <a class="nav-link btn hide" id="navbar-button-home">Home</a>
+          </li>
+          <li class="nav-item add-space-btn">
+            <a class="nav-link btn hide" id="navbar-button-following">Following</a>
+          </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle hide" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            </a>
+            <div class="dropdown-menu dropdown-menu-fix-offscreen" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="#">Get help</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">See terms and privacy</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Add account</a>
+              <div class="dropdown-divider"></div>
+              <button class="dropdown-item" id="navbar-button-logout">Logout</button>
+            </div>
+          </li>
       </ul>
     </div>
   </nav>

@@ -1,8 +1,11 @@
 @import "~bootstrap/scss/bootstrap";
-
-body{
-    background-color: goldenrod;
-}
 .hide {
     display: none;
+}
+.add-space-btn {
+    margin-right: 40px;
+}
+.dropdown-menu-fix-offscreen{
+    right: 0;
+    left: auto;
 }
