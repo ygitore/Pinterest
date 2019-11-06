@@ -1,0 +1,28 @@
+{
+    "category1": {
+        "id":"category1",
+        "type":"clothing",
+        "description":"clothing styles"
+    },
+    "category2": {
+        "id":"category2",
+        "type":"men hair styling",
+        "description":"mens hair styling"
+    },
+    "category3": {
+        "id":"category3",
+        "type":"Home made DIY decor",
+        "description":"home made DIY"
+    },
+    "category4": {
+        "id":"category4",
+        "type":"luxury cars",
+        "description":"luxury cars"
+    },
+    "category5": {
+        "id":"category5",
+        "type":"womens hairstyles",
+        "description":"womens hairstyling"
+    }
+
+}

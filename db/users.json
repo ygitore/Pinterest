@@ -1,0 +1,38 @@
+{
+    "user1": {
+        "id":"id1",
+        "name": "name1",
+        "email":"email1",
+        "location":"location1",
+        "imageUrl":"",
+        "joinDate":"2018",
+        "uid":"SImmyNFrBYNZBIpbl2TnB7JGgeO2"
+    },
+    "user2": {
+        "id":"id2",
+        "name": "name2",
+        "email":"email2",
+        "location":"location2",
+        "imageUrl":"",
+        "joinDate":"2018",
+        "uid":"SImmyNFrBYNZBIpbl2TnB7JGgeO2"
+    },
+    "user3": {
+        "id":"id3",
+        "name": "name3",
+        "email":"email3",
+        "location":"location3",
+        "imageUrl":"",
+        "joinDate":"2018",
+        "uid":"SImmyNFrBYNZBIpbl2TnB7JGgeO2"
+    },
+    "user4": {
+        "id":"id4",
+        "name": "name4",
+        "email":"email4",
+        "location":"location4",
+        "imageUrl":"",
+        "joinDate":"2018",
+        "uid":"123"
+    }
+}
