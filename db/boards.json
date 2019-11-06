@@ -1,0 +1,23 @@
+{
+    "board1": {
+        "id":"board1",
+        "name":"board1",
+        "uid":"SImmyNFrBYNZBIpbl2TnB7JGgeO2",
+        "isPrivate":"true",
+        "description":"board1 is about hairstyling"
+    },
+    "board2": {
+        "id":"board2",
+        "name":"board2",
+        "uid":"SImmyNFrBYNZBIpbl2TnB7JGgeO2",
+        "isPrivate":"true",
+        "description":"board1 is about DIY"
+    },
+    "board3": {
+        "id":"board3",
+        "name":"board3",
+        "uid":"1234",
+        "isPrivate":"true",
+        "description":"board1 is about luxury cars"
+    }
+}
