@@ -22,7 +22,6 @@ const loginButton = () => {
       <img class = "loginbuttonImg" src=${monkeyBut} />
     </button>
   `;
-
   utilities.printToDom('auth', domString);
   $('#google-auth').click(signMeIn);
 };
